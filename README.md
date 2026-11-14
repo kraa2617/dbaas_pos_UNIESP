@@ -1,4 +1,4 @@
-# dbaas_pos_UNIESP
+# DBaaS: Database as a Service - Incidente: Réplica isolada e depois queda do primário
 
 Repositório para entrega da atividade prática da disciplina de DBaaS: Database as a Service
 
